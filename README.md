@@ -17,4 +17,4 @@ Encodage par Taux : Application d'un codage par taux aux images normalisées, tr
 
 Visualisation des Données Codées : Création de visualisations pour interpréter les données encodées et les résultats des simulations.
 
-Deo Munduku 
+Reagan MANDIYA
